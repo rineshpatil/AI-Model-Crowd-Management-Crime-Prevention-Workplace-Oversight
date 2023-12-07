@@ -11,9 +11,7 @@ Accuracy       | Precision | Recall
 ## Running the code
 the code was tested on an nvidia GPU with cudnn drivers, it might not run properly on cpu .
 ####  Commands
-clone the repository: <br/>
-`git clone https://github.com/null-void-Q/real-time-violence-detection.git`
-<br/>
+
 install requirments: <br/>
 `pip install -r requirments.txt` 
 <br/>
